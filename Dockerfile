@@ -10,3 +10,7 @@ WORKDIR /app
 
 CMD node app.js
 #CMD node app.js: This line sets the default command to be executed when a container is started from the Docker image. In this case, it runs the node command with the app.js file as an argument, assuming that the app.js file is the entry point of the Node.js application.
+
+
+#COMMAND to make an image
+#docker build -t docker-playground .
