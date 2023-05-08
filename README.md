@@ -1,5 +1,5 @@
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+![Project Image]([https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg](https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png))
 
 
 # docker-playground
