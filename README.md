@@ -1,5 +1,5 @@
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
-![Project Image](https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png)
+![Project Image](https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Horizontal.png)
 
 
 # docker-playground
