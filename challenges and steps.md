@@ -9,8 +9,12 @@ When I tried to build a Docker image using the command `docker build -t docker-p
 The primary solution I found was that Docker requires sudo permission to run properly. So, to build a Docker image, I used the command `sudo docker build -t docker-playground .`. Similarly, to run the Docker image, I used `sudo docker run docker-playground`.
 
 ### Additional Steps
-
-After building the Docker image, I logged in to Docker in the terminal using `sudo docker login`. To check all Docker images, I used `sudo docker images`. To tag the Docker image, I used `sudo docker tag 4706daa52616 nafizzz85/docker-playground`. Finally, I pushed the Docker image to Docker Hub using `sudo docker push nafizzz85/docker-playground`.
+1. To make a docker images: ‘sudo docker build -t docker-playground .’
+2. To run docker images: ‘sudo docker run docker-playground’
+3. After building the Docker image, I logged in to Docker in the terminal using `sudo docker login`. 
+4. To check all Docker images, I used `sudo docker images`. 
+5. To tag the Docker image, I used `sudo docker tag 4706daa52616 nafizzz85/docker-playground`. 
+6. Finally, I pushed the Docker image to Docker Hub using `sudo docker push nafizzz85/docker-playground`.
 
 ## Accessing Docker Images from Different Machines
 
