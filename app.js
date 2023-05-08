@@ -5,5 +5,4 @@ while (myVar>0){
     'The value of myVar is :', myVar
     );
     myVar --;
-
 }
